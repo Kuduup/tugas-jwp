@@ -2,11 +2,11 @@
 1. Login
 Tampilan awal adalah form login dengan input Username dan Password.
 
-Admin harus memasukkan akun yang valid untuk bisa masuk ke sistem.
+- Admin harus memasukkan akun yang valid untuk bisa masuk ke sistem.
 
-Jika login berhasil → diarahkan ke halaman utama (dashboard).
+- Jika login berhasil → diarahkan ke halaman utama (dashboard).
 
-Jika gagal → muncul pesan bahwa akun tidak valid.
+- Jika gagal → muncul pesan bahwa akun tidak valid.
 
 2. Dashboard / Home
 Setelah login, muncul halaman utama dengan pesan sambutan: "Selamat datang, admin".
@@ -60,20 +60,20 @@ Tombol Kembali → kembali ke daftar barang.
 5. Edit Barang
 Form edit menampilkan data barang yang sudah ada (misalnya: Nama = minyak, Kategori = sembako, Jumlah = 10, Harga = 11000).
 
-Admin bisa mengubah detail barang sesuai kebutuhan.
+- Admin bisa mengubah detail barang sesuai kebutuhan.
 
-Tombol Update → memperbarui data barang di sistem.
+- Tombol Update → memperbarui data barang di sistem.
 
-Tombol Kembali → kembali ke daftar barang.
+- Tombol Kembali → kembali ke daftar barang.
 
 6. Hapus Barang
 Di tabel daftar barang, setiap baris memiliki tombol Hapus.
 
-Jika diklik, barang tersebut akan dihapus dari sistem.
+- Jika diklik, barang tersebut akan dihapus dari sistem.
 
-Setelah dihapus, tabel akan diperbarui otomatis.
+- Setelah dihapus, tabel akan diperbarui otomatis.
 
 7. Logout
 Menu Logout di sidebar digunakan untuk keluar dari sistem.
 
-Setelah logout, admin kembali ke halaman login.
+- Setelah logout, admin kembali ke halaman login.

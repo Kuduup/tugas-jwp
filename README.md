@@ -1,4 +1,4 @@
-📘 Panduan Proyek Sistem Inventori "Barangku"
+📘 Panduan Proyek Inventori barang "Barangku"
 1. Login
 Tampilan awal adalah form login dengan input Username dan Password.
 
